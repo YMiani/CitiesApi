@@ -1,5 +1,5 @@
 # CitiesApi
-Projeto para consulta de cidades, estados e países através de API com Spring Boot e Docker para uso do database, baseado no curso da Digital Innovation One.
+Projeto para consulta de cidades, estados e países através de API com Spring Boot e Docker para uso do database, rodando localmente. Baseado no curso da Digital Innovation One.
 
 ## DataBase com Docker comandos
 
